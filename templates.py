@@ -15,6 +15,10 @@ list_of_files=[
     "src/utils/__init__.py",
     "src/utils/common.py",
 
+
+    #research
+    "research/research.ipynb",
+
     "params.yaml",
     "Dockerfile",
     
